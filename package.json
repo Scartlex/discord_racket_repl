@@ -1,0 +1,19 @@
+{
+  "name": "discord_racket_repl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scartlex/discord_racket_repl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scartlex/discord_racket_repl/issues"
+  },
+  "homepage": "https://github.com/Scartlex/discord_racket_repl#readme"
+}
